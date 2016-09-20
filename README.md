@@ -1,7 +1,5 @@
 # mateuszanini.github.io
 
-Portifólio com GitHub Pages 
+GitHub: https://github.com/mateuszanini
 
-https://github.com/mateuszanini
-
-https://mateuszanini.github.io/
+GitHub Pages: https://mateuszanini.github.io
